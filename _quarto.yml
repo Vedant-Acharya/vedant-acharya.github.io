@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Vedant Acharya"
+  description: "Technical Blog on Deep learning and swarms"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-line-numbers: true
+    toc: true
