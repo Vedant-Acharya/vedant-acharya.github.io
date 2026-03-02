@@ -1,1 +1,0 @@
-# vedant-acharya.github.io

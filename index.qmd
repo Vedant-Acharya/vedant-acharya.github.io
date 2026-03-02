@@ -1,9 +1,0 @@
----
-title: "Welcome to My Technical Blog"
----
-
-Hey, I am Vedant. 
-
-This is my space for sharing my research, blogs and technical write ups. I'm currently diving deep into **Artificial Intelligence, Machine Learning, Swarms, with Astrodynamics and Edge AI**. 
-
-Expect future posts on everything from exploring NLP and Computer Vision to posting about math and assignments. Stay tuned!
