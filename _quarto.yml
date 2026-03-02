@@ -2,9 +2,9 @@ project:
   type: website
   output-dir: _site
 
+
 website:
   title: "Vedant Acharya"
-  description: "Technical Blog on Deep learning and swarms"
   navbar:
     left:
       - href: index.qmd

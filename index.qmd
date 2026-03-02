@@ -1,9 +1,20 @@
 ---
-title: "Welcome to My Technical Blog"
+title: "Vedant Acharya"
+description: "Visualizing deep learning and swarms, one concept at a time."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
 ---
 
-Hey, I am Vedant. 
+Hey, I'm Vedant. 
 
-This is my space for sharing my research, blogs and technical write ups. I'm currently diving deep into **Artificial Intelligence, Machine Learning, Swarms, with Astrodynamics and Edge AI**. 
+This is my space for sharing research, blogs, and technical write-ups. I'm currently diving deep into **Artificial Intelligence, Deep Learning, Astrodynamics, Low level programming and Swarm Intelligence**.
 
-Expect future posts on everything from exploring NLP and Computer Vision to posting about math and assignments. Stay tuned!
+Expect future posts on everything from exploring NLP and Computer Vision to the math behind Rockets. 
+
+---
+
+## Write-ups
